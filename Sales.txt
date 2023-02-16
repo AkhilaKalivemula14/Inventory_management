@@ -1,0 +1,12 @@
+akhila,7993261617,akhila@gmail.com,cake,1,5,1500,Wed Feb 15 22:53:27 2023
+akhila,7993261617,akhila@gmail.com,cake,1,10,3000,Wed Feb 15 22:54:39 2023
+xyz,9865,vrgh@gmail.com,osmania biscuits,3,10,300,Wed Feb 15 22:57:05 2023
+kavitha,25897,kavitha@gmail.com,osmania biscuits,3,10,300,Wed Feb 15 23:02:18 2023
+sony,28597,juhty@gmail.com,osmania biscuits,3,100,3000,Wed Feb 15 23:03:30 2023
+subhash,14789,bgt@gmail.com,osmania biscuits,3,100,3000,Wed Feb 15 23:07:09 2023
+tillu,789456,tillu@gmail.com,cake,1,35,10500,Wed Feb 15 23:08:18 2023
+tillu,1478,tillu@gmail.com,cake,1,10,3000,Wed Feb 15 23:09:56 2023
+kavitha,12345,kav@gmail.com,osmania biscuits,3,15,450,Wed Feb 15 23:10:41 2023
+sam,123,sam@gmail.com,Daily Milk Silk,5,2,370,Wed Feb 15 23:16:16 2023
+sony,1256,sony@gmail.com,Daily Milk Silk,5,3,555,Wed Feb 15 23:17:22 2023
+kittu,85246,kittu@gmail.com,cake,1,10,3000,Wed Feb 15 23:25:12 2023

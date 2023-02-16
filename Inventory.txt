@@ -1,0 +1,6 @@
+1,cake,300,5
+2,muffin,20,10
+3,osmania biscuits,30,5
+4,toast,15,10
+5,Daily Milk Silk,185,2
+6,Benaturals,110,2
